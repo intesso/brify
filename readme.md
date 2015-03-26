@@ -4,7 +4,7 @@ replaces `\n` with `<br/>` in a string
 
 
 
-## usage
+# usage
 use in the browser with browserify.
 
 ```js
