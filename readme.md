@@ -1,6 +1,6 @@
 # brify
 
-replaces '\n' with '<br/>' in a string
+replaces `\n` with `<br/>` in a string
 
 
 
