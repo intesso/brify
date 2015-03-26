@@ -1,7 +1,7 @@
 {
   "name": "brify",
   "version": "1.0.1",
-  "description": "replaces '\\n' with '<br/>' in a string",
+  "description": "replaces `\\n` with `<br/>` in a string",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
